@@ -1,4 +1,4 @@
-
+Audacity for macOS top LUT: stream-overlays & EQ is the best Audacity for macOS lut, featuring stream-overlays and EQ. Safe, efficient, and optimized for video editors on macOS.
 
 
 
